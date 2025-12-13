@@ -49,12 +49,14 @@
     "react-day-picker": "^9.12.0",
     "react-dom": "19.2.1",
     "react-hook-form": "^7.68.0",
+    "react-konva": "^19.2.1",
     "react-resizable-panels": "^3.0.6",
     "recharts": "2.15.4",
     "sonner": "^2.0.7",
     "tailwind-merge": "^3.4.0",
     "vaul": "^1.1.2",
-    "zod": "^4.1.13"
+    "zod": "^4.1.13",
+    "zustand": "^5.0.9"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
